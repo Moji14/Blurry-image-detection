@@ -1,3 +1,4 @@
+#!/usr/bin/python2.7
 # import the necessary packages
 from imutils import paths
 import argparse
